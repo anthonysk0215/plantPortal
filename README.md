@@ -1,4 +1,4 @@
-# Plant Portal 🌱 (Top 15 Finalist)
+# Plant Portal 🌱 (SCU Hacks Finalist)
 
 An innovative platform empowering users to build virtual gardens that reflect their real-life planting efforts, fostering environmental awareness and community-driven sustainability.
 Part of Hack for Humanity 2025.
